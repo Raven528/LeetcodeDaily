@@ -5,4 +5,4 @@
 ## 模型
 ### 粤语
 ### 闽南语
-魔塔社区：https://www.modelscope.cn/models/iic/speech_UniASR_asr_2pass-minnan-16k-common-vocab3825/summary
+UniASR闽南语通用16k：https://www.modelscope.cn/models/iic/speech_UniASR_asr_2pass-minnan-16k-common-vocab3825/summary
